@@ -1,3 +1,2 @@
-adding text
-This is a line from RStudio
-ANOTHER LINE
+## test README 
+I'm writing from RStudio
